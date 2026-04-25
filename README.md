@@ -2,8 +2,10 @@
 Python tool to crawl through JS files to get endpoints and parameters and get you secrets !!
 
 #Downloading
-git clone https://github.com/0xRacco0n/Rac-Js.git
+git clone https://github.com/0xRacco0n/Rac-Js.git 
+
 cd cd Rac-Js/Rac-Js/
+
 python3 rac-js.py -h
 
 
